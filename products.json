@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Fortunure",
+        "price": 160,
+        "feature": true,
+        "company": "tata"
+    },
+    {
+        "name": "Triber",
+        "price": 70,
+        "feature": true,
+        "company": "Renault"
+    },
+    {
+        "name": "Ertiga",
+        "price": 10,
+        "feature": true,
+        "company": "suzaki"
+    },
+    {
+        "name": "Grand-vitara",
+        "price": 150,
+        "feature": true,
+        "company": "suzaki"
+    }
+]
