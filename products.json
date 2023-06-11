@@ -2,25 +2,55 @@
     {
         "name": "Fortunure",
         "price": 160,
-        "feature": true,
-        "company": "tata"
+        "featured": true,
+        "company": "Tata"
     },
     {
         "name": "Triber",
         "price": 70,
-        "feature": true,
+        "featured": false,
         "company": "Renault"
     },
     {
         "name": "Ertiga",
         "price": 10,
-        "feature": true,
-        "company": "suzaki"
+        "featured": false,
+        "company": "Suzuki"
     },
     {
         "name": "Grand-vitara",
         "price": 150,
-        "feature": true,
-        "company": "suzaki"
+        "featured": true,
+        "company": "Suzuki"
+    },
+    {
+        "name": "Verna",
+        "price": 180,
+        "featured": true,
+        "company": "Hyunadai"
+    },
+    {
+        "name": "Tata Nexon",
+        "price": 140,
+        "featured": true,
+        "company": "Tata"
+    },
+    {
+        "name": "Fronx",
+        "price": 165,
+        "featured": true,
+        "company": "Suzuki"
+    },
+    {
+        "name": "Innova Crysta",
+        "price": 200,
+        "featured": true,
+        "company": "Toyota"
+    },
+    {
+        "name": "MG Hector",
+        "price": 195,
+        "featured": true,
+        "company": "MG"
     }
 ]
